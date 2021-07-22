@@ -1,0 +1,13 @@
+{
+  "name": "com.test.sqlite",
+  "version": "0.1.0",
+  "description": "this package is a test.",
+  "displayName": "Test Package",
+  "unity": "2019.4",
+  "author": {
+    "name": "chromosome",
+    "email": "i.chromosome@gmail.com",
+    "url": "github.com/chromosome"
+  },
+  "type": "tool"
+}
